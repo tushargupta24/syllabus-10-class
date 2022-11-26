@@ -1,0 +1,104 @@
+{
+    "syllabus-10":[
+        {
+          "id": 1,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Initial Page",
+          "download": "assets/images/notes-10/syllabus-10/initial-page.pdf",
+          "view": "assets/images/notes-10/syllabus-10/initial-page.pdf",
+          "author": "Tushar",
+          "class": "class-10"
+        },
+        {
+          "id": 2,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-10, English Syllabus",
+          "download": "assets/images/notes-10/syllabus-10/english-syllabus-10.pdf",
+          "view": "assets/images/notes-10/syllabus-10/english-syllabus-10.pdf",
+          "author": "Tushar",
+          "class": "class-10"
+        },
+        {
+          "id": 3,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-10, Hindi Syllabus",
+          "download": "assets/images/notes-10/syllabus-10/hindi-10.pdf",
+          "view": "assets/images/notes-10/syllabus-10/hindi-10.pdf",
+          "author": "Tushar",
+          "class": "class-10"
+        },
+        {
+          "id": 4,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-10, Maths English medium Syllabus",
+          "download": "assets/images/notes-10/syllabus-10/maths-english-syllabus-10.pdf",
+          "view": "assets/images/notes-10/syllabus-10/maths-english-syllabus-10.pdf",
+          "author": "Tushar",
+          "class": "class-10"
+        },
+        {
+          "id": 5,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-10, Maths English medium Syllabus",
+          "download": "assets/images/notes-10/syllabus-10/maths-hindi-syllabus-10.pdf",
+          "view": "assets/images/notes-10/syllabus-10/maths-hindi-syllabus-10.pdf",
+          "author": "Tushar",
+          "class": "class-10"
+        },
+        {
+          "id": 6,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-10, Science Hindi medium Syllabus",
+          "download": "assets/images/notes-10/syllabus-10/science-hindi-syllabus-10.pdf",
+          "view": "assets/images/notes-10/syllabus-10/science-hindi-syllabus-10.pdf",
+          "author": "Tushar",
+          "class": "class-10"
+        },
+        {
+          "id": 7,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-10, Science English medium Syllabus",
+          "download": "assets/images/notes-10/syllabus-10/science-english-syllabus-10.pdf",
+          "view": "assets/images/notes-10/syllabus-10/science-english-syllabus-10.pdf",
+          "author": "Tushar",
+          "class": "class-10"
+        },
+        {
+          "id": 8,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-10, Sanskrit Syllabus",
+          "download": "assets/images/notes-10/syllabus-10/sanskrit-syllabus-10.pdf",
+          "view": "assets/images/notes-10/syllabus-10/sanskrit-syllabus-10.pdf",
+          "author": "Tushar",
+          "class": "class-10"
+        },
+        {
+          "id": 9,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-10, Social science Hindi Medium Syllabus",
+          "download": "assets/images/notes-10/syllabus-10/sst-hindi-syllabus-10.pdf",
+          "view": "assets/images/notes-10/syllabus-10/sst-hindi-syllabus-10.pdf",
+          "author": "Tushar",
+          "class": "class-10"
+        },
+        {
+          "id": 10,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-10, Social science  English Medium Syllabus",
+          "download": "assets/images/notes-10/syllabus-10/sst-english-syllabus-10.pdf",
+          "view": "assets/images/notes-10/syllabus-10/sst-english-syllabus-10.pdf",
+          "author": "Tushar",
+          "class": "class-10"
+        }
+      ]
+    }
